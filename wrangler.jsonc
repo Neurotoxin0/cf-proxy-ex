@@ -1,4 +1,10 @@
 {
   "main": "_worker.js",
-  "compatibility_date": "2025-07-13","name": "proxy"
+  "compatibility_date": "2025-07-13","name": "proxy",
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true
+    }
+  },
 }
